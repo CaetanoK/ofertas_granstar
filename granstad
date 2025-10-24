@@ -1,164 +1,65 @@
 [
   {
-    "Modelos": "Novo Onix Hatch",
-    "Vers_o": "Aspirado",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 99.990 por R$ 84.990 à vista. Inclui 5 anos de garantia.",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
+    "Modelos": "EX90",
+    "Vers_o": "",
+    "Tipo": "",
+    "Ano__Modelo": "",
+    "Condi__es": "",
+    "Validade_da_Oferta": "",
+    "Link": ""
   },
   {
-    "Modelos": "Novo Onix Hatch Turbo",
-    "Vers_o": "LTZ",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A partir de 114.990,",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
+    "Modelos": "EX40",
+    "Vers_o": "Plus",
+    "Tipo": "SUV Médio Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 329.950,00* ",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
   },
   {
-    "Modelos": "Novo Tracker ",
-    "Vers_o": "Premier",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "De 174.990,00 Por 165.990,",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
+    "Modelos": "EX40",
+    "Vers_o": "Ultra",
+    "Tipo": "SUV Médio Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 379.950,00*",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
   },
   {
-    "Modelos": "Spark EUV",
-    "Vers_o": "ACTIV",
-    "Tipo": "Versão Única",
-    "Ano__Modelo": "2025/2025",
-    "Condi__es": "R$ 159.990 com taxa zero e pronta entrega.",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
+    "Modelos": "EX40 ",
+    "Vers_o": "Black Edition",
+    "Tipo": "SUV Médio Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 384.950,00* ",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
   },
   {
-    "Modelos": "Spin",
-    "Vers_o": "LTZ",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 152.640 por R$ 147.790, com 7 lugares Taxa Zero",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
+    "Modelos": "EX30",
+    "Vers_o": "Core",
+    "Tipo": "SUV Compacto",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 229.950,00*  - Taxa Zero* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
   },
   {
-    "Modelos": "S10 ",
-    "Vers_o": "High Country",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "2025/2025",
-    "Condi__es": "De R$ 325.540 por R$ 305.990, com 5 anos de garantia.",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
+    "Modelos": "EX30",
+    "Vers_o": "Plus",
+    "Tipo": "SUV Compacto",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 269.950,00*  - Taxa Zero* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
   },
   {
-    "Modelos": "Silverado",
-    "Vers_o": "High Country",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "2024/2025",
-    "Condi__es": "De R$ 573.990 por R$ 489.990, incluindo tampa traseira com degrau Multi-Flex.",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Tracker ",
-    "Vers_o": "AT",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A partir de 119.990,",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Tracker ",
-    "Vers_o": "LT ",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A partir de 134.990,",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Equinox ",
-    "Vers_o": "EV",
-    "Tipo": "Versão Única",
-    "Ano__Modelo": "2024/2024",
-    "Condi__es": "A partir de 349.990, Super Valorização do Usado",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Montana",
-    "Vers_o": "RS",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "2025/2025",
-    "Condi__es": "A partir de 159.990,",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Onix Turbo Automático",
-    "Vers_o": "LT",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A Partir de 106.990,",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Tracker ",
-    "Vers_o": "AT",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "Por 105.862,  Taxa Zero",
-    "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Spin",
-    "Vers_o": "AT",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "Por 102.904,",
-    "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Onix Plux ",
-    "Vers_o": "AT",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A partir de 90.205,",
-    "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Tracker ",
-    "Vers_o": "Premier",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A partir de 149.741,",
-    "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Onix Turbo Automático",
-    "Vers_o": "Premier",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A  partir de 111.907, ",
-    "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "31/10/2025"
-  },
-  {
-    "Modelos": "Onix Turbo Automático",
-    "Vers_o": "LTZ",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "A partir de 106.970, Taxa Especial 0,99%",
-    "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "31/10/2025"
+    "Modelos": "EX30",
+    "Vers_o": "Ultra",
+    "Tipo": "SUV Compacto",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 299.950,00*  - Taxa Zero* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
   }
 ]
