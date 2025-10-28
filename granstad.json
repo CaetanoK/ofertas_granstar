@@ -1,11 +1,11 @@
 [
   {
     "Modelos": "EX90",
-    "Vers_o": "",
-    "Tipo": "",
-    "Ano__Modelo": "",
-    "Condi__es": "",
-    "Validade_da_Oferta": "",
+    "Vers_o": "Ultra",
+    "Tipo": "SUV Grande Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 849.950,00 - Taxa Zero em até 12X*",
+    "Validade_da_Oferta": "31/10/2025",
     "Link": ""
   },
   {
@@ -13,7 +13,7 @@
     "Vers_o": "Plus",
     "Tipo": "SUV Médio Porte",
     "Ano__Modelo": "25/25",
-    "Condi__es": "A partir de R$ 329.950,00* ",
+    "Condi__es": "A partir de R$ 329.950,00* - Taxa Zero em até 18X* ou Bônus de 20 mil no seu usado na troca*",
     "Validade_da_Oferta": "31/10/2025",
     "Link": ""
   },
@@ -22,7 +22,7 @@
     "Vers_o": "Ultra",
     "Tipo": "SUV Médio Porte",
     "Ano__Modelo": "25/25",
-    "Condi__es": "A partir de R$ 379.950,00*",
+    "Condi__es": "A partir de R$ 379.950,00* ",
     "Validade_da_Oferta": "31/10/2025",
     "Link": ""
   },
@@ -31,34 +31,133 @@
     "Vers_o": "Black Edition",
     "Tipo": "SUV Médio Porte",
     "Ano__Modelo": "25/25",
-    "Condi__es": "A partir de R$ 384.950,00* ",
+    "Condi__es": "A partir de R$ 384.950,00*  - Taxa Zero em até 18X* ou Bônus de 20 mil no seu usado da troca*",
     "Validade_da_Oferta": "31/10/2025",
     "Link": ""
   },
   {
     "Modelos": "EX30",
-    "Vers_o": "Core",
+    "Vers_o": "E40 Core",
     "Tipo": "SUV Compacto",
     "Ano__Modelo": "25/25",
-    "Condi__es": "A partir de R$ 229.950,00*  - Taxa Zero* + Bônus de 20mil na avaliação do seu usado*.",
+    "Condi__es": "A partir de R$ 229.950,00*  - Taxa Zero em até 36X* + Bônus de 20mil* na avaliação do seu usado*.",
     "Validade_da_Oferta": "31/10/2025",
     "Link": ""
   },
   {
     "Modelos": "EX30",
+    "Vers_o": "E60 Core",
+    "Tipo": "SUV Compacto",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 249.950,00*  - Taxa Zero em até 36X* + Bônus de 20mil* na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "EX30",
+    "Vers_o": "E60 Plus",
+    "Tipo": "SUV Compacto",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 269.950,00*  - Taxa Zero em até 36X* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "EX30",
+    "Vers_o": "E60 Ultra",
+    "Tipo": "SUV Compacto",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 299.950,00*  - Taxa Zero em até 36X* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "EC40",
     "Vers_o": "Plus",
-    "Tipo": "SUV Compacto",
+    "Tipo": "Crossover Compacto",
     "Ano__Modelo": "25/25",
-    "Condi__es": "A partir de R$ 269.950,00*  - Taxa Zero* + Bônus de 20mil na avaliação do seu usado*.",
+    "Condi__es": "A partir de R$ 304.950,00*  - Taxa Zero em até 18X* + Bônus de 20mil na avaliação do seu usado*.",
     "Validade_da_Oferta": "31/10/2025",
     "Link": ""
   },
   {
-    "Modelos": "EX30",
+    "Modelos": "EC40",
     "Vers_o": "Ultra",
-    "Tipo": "SUV Compacto",
+    "Tipo": "Crossover Compacto",
     "Ano__Modelo": "25/25",
-    "Condi__es": "A partir de R$ 299.950,00*  - Taxa Zero* + Bônus de 20mil na avaliação do seu usado*.",
+    "Condi__es": "A partir de R$ 384.950,00*",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "EC40",
+    "Vers_o": "Black Edition",
+    "Tipo": "Crossover Compacto",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 359.950,00* - Taxa Zero em até 18X* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "XC60",
+    "Vers_o": "Plus",
+    "Tipo": "SUV Médio Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 439.950,00* - Taxa Zero em até 18X* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "XC60",
+    "Vers_o": "Ultra",
+    "Tipo": "SUV Médio Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 509.950,00*",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "XC60",
+    "Vers_o": "Ultra Dark",
+    "Tipo": "SUV Médio Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 519.950,00*",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "XC60",
+    "Vers_o": "Polestar",
+    "Tipo": "SUV Médio Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 529.950,00* - Taxa Zero em até 18X* + Bônus de 20mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "XC90",
+    "Vers_o": "Plus",
+    "Tipo": "SUV Grande Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 679.950,00* - Taxa Zero em até 18X* + Bônus de 50mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "XC90",
+    "Vers_o": "Ultra",
+    "Tipo": "SUV Grande Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 729.950,00* - Taxa Zero em até 18X* + Bônus de 50mil na avaliação do seu usado*.",
+    "Validade_da_Oferta": "31/10/2025",
+    "Link": ""
+  },
+  {
+    "Modelos": "XC90",
+    "Vers_o": "Ultra",
+    "Tipo": "SUV Grande Porte",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "A partir de R$ 739.950,00* - Taxa Zero em até 18X* + Bônus de 50mil na avaliação do seu usado*.",
     "Validade_da_Oferta": "31/10/2025",
     "Link": ""
   }
